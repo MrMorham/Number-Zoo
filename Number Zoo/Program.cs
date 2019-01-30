@@ -28,9 +28,17 @@ namespace Number_Zoo
         {
             Operations Command = new Operations();
 
-            List<int> Zoo = Command.GenerateZoo(10);
+            List<int> Zoo1 = Command.GenerateZoo(10);
+            List<int> Zoo2 = Command.GenerateZoo(30);
+            List<int> Zoo3 = Command.GenerateZoo(3);
+            List<int> Zoo4 = Command.GenerateZoo(2);
+            List<int> Zoo5 = Command.GenerateZoo(1);
 
-            Command.PrintZoo(Zoo);
+            Command.PrintZoo(Zoo1);
+            Command.PrintZoo(Zoo2);
+            Command.PrintZoo(Zoo3);
+            Command.PrintZoo(Zoo4);
+            Command.PrintZoo(Zoo5);
 
             Console.ReadLine();
         }
