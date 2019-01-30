@@ -1,0 +1,7 @@
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Number Zoo\Number Zoo\bin\Debug\Number Zoo.exe.config
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Number Zoo\Number Zoo\bin\Debug\Number Zoo.exe
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Number Zoo\Number Zoo\bin\Debug\Number Zoo.pdb
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Number Zoo\Number Zoo\obj\Debug\Number Zoo.csprojAssemblyReference.cache
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Number Zoo\Number Zoo\obj\Debug\Number Zoo.csproj.CoreCompileInputs.cache
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Number Zoo\Number Zoo\obj\Debug\Number Zoo.exe
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Number Zoo\Number Zoo\obj\Debug\Number Zoo.pdb
